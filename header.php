@@ -15,5 +15,6 @@
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.12.0/css/mdb.min.css" rel="stylesheet">
     <title>AzaLibrary</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
 </head>
     
