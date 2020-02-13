@@ -1,6 +1,7 @@
 <?php
     require_once 'header.php';
-    require_once "signup.php";
+    require_once 'signup.php';
+    require_once 'connection.php';
 ?>
 <body class="body" style="background-color:#d3d3d3; height:100%;">
     <div class="container" >
@@ -8,7 +9,7 @@
             <div class="col col-3"></div>
             <div  class="col col-6">
                 <div class="card" style="margin-top:20px;">
-                    <div class="card-body">
+                    <div class="card-body" style="background-color:#333333">
                         <form action="" method="post">
                             <p class="h4 text-center py-4">Sign In</p>
                             <div class="md-form">

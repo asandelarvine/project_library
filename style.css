@@ -1,5 +1,16 @@
-
-.sidebar{
+body{
+    margin:0;
+    padding:0;
+}
+.container-fluid{
+    height:100%;
+}
+.topbar{
+    height:25px;
+    background-color:#003366;
+    color:cyan;
+}
+li{
     list-style: none;
 }
 

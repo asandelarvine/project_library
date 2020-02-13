@@ -13,7 +13,7 @@
                             <span aria-hidden="true">&times;</span>
                             </button>
                         </div>
-                            <div class="modal-body">  
+                            <div class="modal-body" style="background-color:#333333">  
                                 <form action="" method="post">
                                     <p class="h4 text-center py-4">Sign Up</p>
                                                                         <!-- Default input name -->
