@@ -3,6 +3,7 @@ require_once 'header.php';
 require_once 'connection.php';
 ?>
 <div class="container-fluid">
+    <div class="row" style="background-color:#040485: height:20px"></div>
     <div class="row topbar" id="" >
         <div class="col col-4" >Dashboard</div>
         <div class="col col-5"></div>
@@ -16,9 +17,9 @@ require_once 'connection.php';
             </div>
         </div>
     </div>
-    <div class="row" style="background-color:#00008b">
-        <div class="col col-3" style="margin-left:-50px; background-color:#003366">
-            <div class="card" style="background-color:#00008b">
+    <div class="row" style="background-color:#212132">
+        <div class="col col-3" style="margin-left:-50px; background-color:#393950">
+            <div class="card" style="background-color:#212132; margin-centre:0px">
                 <div class="card-body">
                     <ul class="sidebar" style="margin-left:40px;color:#0df4fc; background-color:#0033660;">
                         <li> <i class="fas fa-tachometer-alt"></i> Dashboard</li><hr>
@@ -59,7 +60,7 @@ require_once 'connection.php';
                 </div>
             </div>
         </div>
-            <div class="col col-3" style="background-color:#00008b">
+            <div class="col col-3" style="background-color:#393950;">
             <br>
                 <div class="card wow fadeInLeft">
                     <img src="lib.jpg" class="card-img-top" alt="photo">
@@ -70,7 +71,7 @@ require_once 'connection.php';
                 </div>
 
             </div>
-            <div class="col col-3" style="background-color:#00008b">
+            <div class="col col-3" style="background-color:#212132">
             <br>
             <br>
                 <div class="card wow zoomIn" style="background-color:#00bfff; height:170px">
@@ -91,7 +92,7 @@ require_once 'connection.php';
                     </div>
                 </div>
             </div>
-            <div class="col col-3"style="background-color:#00008b">
+            <div class="col col-3"style="background-color:#212132">
             <br>
             <br>
             <div class="card wow fadeInRight" style="background-color:#00bfff; height:170px">
